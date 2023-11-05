@@ -1,0 +1,10 @@
+{
+	"type": "apotheosis:thunderstruck",
+	"values": {
+		"divine_apotheosis:divine": {
+			"min": 15,
+			"steps": 10,
+			"step": 1
+		}
+	}
+}

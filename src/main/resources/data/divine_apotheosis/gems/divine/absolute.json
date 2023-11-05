@@ -1,0 +1,52 @@
+{
+	"variant": "absolute",
+	"weight": 1,
+	"quality": 0,
+	"dimensions": [
+	],
+	"bonuses": [
+		{
+			"type": "apotheosis:attribute",
+			"gem_class": {
+				"key": "light_weapon",
+				"types": [
+					"trident",
+					"sword"
+				]
+			},
+			"attribute": "minecraft:generic.attack_damage",
+			"operation": "MULTIPLY_BASE",
+			"values": {
+				"common": 0.05,
+				"uncommon": 0.10,
+				"rare": 0.15,
+				"epic": 0.20,
+				"mythic": 0.35,
+				"ancient": 0.55,
+				"apotheotic_additions:artifact": 0.75,
+				"divine_apotheosis:divine": 1
+			}
+		},
+		{
+			"type": "apotheosis:attribute",
+			"gem_class": {
+				"key": "core_armor",
+				"types": [
+					"chestplate",
+					"leggings"
+				]
+			},
+			"attribute": "minecraft:generic.armor",
+			"operation": "MULTIPLY_BASE",
+			"values": {
+				"common": 0.05,
+				"uncommon": 0.10,
+				"rare": 0.15,
+				"epic": 0.20,
+				"mythic": 0.35,
+				"ancient": 0.55,
+				"divine_apotheosis:divine": 1
+			}
+		}
+	]
+}

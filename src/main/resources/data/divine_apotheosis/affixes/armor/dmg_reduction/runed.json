@@ -1,0 +1,14 @@
+{
+	"type": "apotheosis:damage_reduction",
+	"damage_type": "MAGIC",
+	"values": {
+		"divine_apotheosis:divine": {
+			"min": 0.15,
+			"steps": 5,
+			"step": 0.01
+		}
+	},
+	"types": [
+		"helmet", "chestplate", "leggings"
+	]
+}

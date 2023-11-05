@@ -1,0 +1,11 @@
+{
+	"_comment": "Torch Placer - value is the durability cost.",
+	"type": "apotheosis:enlightened",
+	"values": {
+		"divine_apotheosis:divine": {
+			"min": 1,
+			"steps": 1,
+			"step": 0
+		}
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"_comment": "Area Break - x/y are the area, offsets can move the center.",
+	"type": "apotheosis:radial",
+	"values": {
+		"divine_apotheosis:divine": [
+			{
+				"x": 7,
+				"y": 7,
+				"xOff": 0,
+				"yOff": 0
+			},
+			{
+				"x": 7,
+				"y": 9,
+				"xOff": 0,
+				"yOff": 0
+			},
+			{
+				"x": 9,
+				"y": 9,
+				"xOff": 0,
+				"yOff": 0
+			}
+		]
+	}
+}

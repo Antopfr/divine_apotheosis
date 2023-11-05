@@ -1,0 +1,37 @@
+{
+	"parent": "apotheosis:affix/ancient",
+	"conditions": [{
+		"type": "apotheosis:module",
+		"module": "deadly"
+	}],
+	"display": {
+		"icon": {
+			"item": "divine_apotheosis:divine_material"
+		},
+		"title": {
+			"translate": "advancements.divine_apotheosis:divine"
+		},
+		"description": {
+			"translate": "advancements.divine_apotheosis:divine.desc"
+		},
+		"frame": "challenge",
+		"hidden": false,
+		"background": "apotheosis:textures/advancements/bg/apoth.png"
+	},
+	"criteria": {
+		"sword": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"apoth": {
+					"type": "rarity",
+					"rarity": "divine_apotheosis:divine"
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"sword"
+		]
+	]
+}

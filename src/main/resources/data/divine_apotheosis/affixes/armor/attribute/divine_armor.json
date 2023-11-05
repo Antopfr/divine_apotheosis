@@ -1,0 +1,16 @@
+{
+	"type": "apotheosis:attribute",
+	"attribute": "minecraft:generic.armor",
+	"operation": "ADDITION",
+	"values": {
+		"divine_apotheosis:divine": {
+			"min": 20,
+			"steps": 25,
+			"step": 1
+		}
+	},
+	"types": [
+		"helmet", "chestplate", "leggings", "boots",
+		"shield"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"type": "apotheosis:mob_effect",
+	"mob_effect": "minecraft:instant_health",
+	"target": "HURT_SELF",
+	"values": {
+		"divine_apotheosis:divine": {
+			"duration": 1,
+			"amplifier": {
+				"min": 1,
+				"steps": 1,
+				"step": 1
+			},
+			"cooldown": 200
+		}
+	},
+	"types": [
+		"chestplate", "leggings"
+	]
+}

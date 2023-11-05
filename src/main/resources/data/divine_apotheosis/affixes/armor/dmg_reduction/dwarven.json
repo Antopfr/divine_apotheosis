@@ -1,0 +1,14 @@
+{
+	"type": "apotheosis:damage_reduction",
+	"damage_type": "FIRE",
+	"values": {
+		"divine_apotheosis:divine": {
+			"min": 0.15,
+			"steps": 15,
+			"step": 0.01
+		}
+	},
+	"types": [
+		"chestplate", "leggings"
+	]
+}

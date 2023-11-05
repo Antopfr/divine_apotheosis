@@ -1,0 +1,15 @@
+{
+	"type": "apotheosis:attribute",
+	"attribute": "forge:entity_gravity",
+	"operation": "MULTIPLY_TOTAL",
+	"values": {
+		"divine_apotheosis:divine": {
+			"min": -0.30,
+			"steps": 6,
+			"step": -0.05
+		}
+	},
+	"types": [
+		"chestplate", "boots"
+	]
+}

@@ -1,0 +1,138 @@
+{
+  "item.divine_apotheosis.divine_material": "Rune of Eternity",
+  "item.apotheosis.gem.divine_apotheosis:divine": "Godlike %s",
+  "item.apotheosis.gem.apotheosis:divine": "Godlike %s",
+  "item.divine_apotheosis.gem.apotheosis:divine/absolute": "Absolute Gem",
+
+  "rarity.divine_apotheosis:divine": "Divine",
+
+  "advancements.divine_apotheosis:divine": "Meeting the Gods",
+  "advancements.divine_apotheosis:divine.desc": "Obtain an Divine Affix item",
+
+  "comment_id": "/Sword",
+
+  "affix.divine_apotheosis:sword/attribute/divine_knockback": "Lunar",
+  "affix.divine_apotheosis:sword/attribute/divine_knockback.suffix": "of Artemis",
+
+  "affix.divine_apotheosis:sword/attribute/divine_damage": "Deadly",
+  "affix.divine_apotheosis:sword/attribute/divine_damage.suffix": "of Moros",
+
+  "affix.divine_apotheosis:sword/attribute/divine_cold": "Abyssal",
+  "affix.divine_apotheosis:sword/attribute/divine_cold.suffix": "of Poseidon",
+
+  "affix.divine_apotheosis:sword/attribute/divine_hp_damage": "Bloodthirsty",
+  "affix.divine_apotheosis:sword/attribute/divine_hp_damage.suffix": "of Ares",
+
+  "affix.divine_apotheosis:sword/mob_effect/saturation": "Resourceful",
+  "affix.divine_apotheosis:sword/mob_effect/saturation.suffix": "of Demeter",
+
+  "affix.divine_apotheosis:sword/special/festive": "Festive",
+  "affix.divine_apotheosis:sword/special/festive.suffix": "of Dionysus",
+  "affix.divine_apotheosis:sword/special/festive.desc": "Slain enemies have a %s%% chance to be a Loot Piñata",
+
+  "affix.divine_apotheosis:sword/special/thunderstruck": "Thunderstruck",
+  "affix.divine_apotheosis:sword/special/thunderstruck.suffix": "of Zeus",
+  "affix.divine_apotheosis:sword/special/thunderstruck.desc": "Your attacks deal %s damage to nearby enemies.",
+
+  "affix.divine_apotheosis:sword/attribute/vampiric": "Vampiric",
+  "affix.divine_apotheosis:sword/attribute/vampiric.suffix": "of Ares",
+
+  "affix.divine_apotheosis:sword/mob_effect/elusive": "Elusive",
+  "affix.divine_apotheosis:sword/mob_effect/elusive.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:sword/attribute/infernal": "Infernal",
+  "affix.divine_apotheosis:sword/attribute/infernal.suffix": "of Hephaestus",
+
+  "affix.divine_apotheosis:sword/mob_effect/weakening": "Weakening",
+  "affix.divine_apotheosis:sword/mob_effect/weakening.suffix": "of Hephaestus",
+
+  "affix.divine_apotheosis:sword/attribute/elongated": "Elongated",
+  "affix.divine_apotheosis:sword/attribute/elongated.suffix": "of Zeus",
+
+  "comment_id": "/Armor",
+
+  "affix.divine_apotheosis:armor/attribute/divine_luck": "Enigmatic",
+  "affix.divine_apotheosis:armor/attribute/divine_luck.suffix": "of Apollo",
+
+  "affix.divine_apotheosis:armor/attribute/divine_toughness": "Strategic",
+  "affix.divine_apotheosis:armor/attribute/divine_toughness.suffix": "of Athena",
+
+  "affix.divine_apotheosis:armor/attribute/divine_hp": "Guardian",
+  "affix.divine_apotheosis:armor/attribute/divine_hp.suffix": "of Hestia",
+
+  "affix.divine_apotheosis:armor/attribute/divine_armor": "Forged",
+  "affix.divine_apotheosis:armor/attribute/divine_armor.suffix": "of Hephaestus",
+
+  "affix.divine_apotheosis:armor/attribute/winged": "Winged",
+  "affix.divine_apotheosis:armor/attribute/winged.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:armor/attribute/creative": "Winged",
+  "affix.divine_apotheosis:armor/attribute/creative.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:armor/attribute/gravitational": "Gravitational",
+  "affix.divine_apotheosis:armor/attribute/gravitational.suffix": "of Uranus",
+
+  "affix.divine_apotheosis:armor/attribute/aquatic": "Abyss-Forged",
+  "affix.divine_apotheosis:armor/attribute/aquatic.suffix": "of Poseidon",
+
+  "affix.divine_apotheosis:armor/mob_effect/speed": "Prosperous",
+  "affix.divine_apotheosis:armor/mob_effect/speed.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:armor/mob_effect/resistance": "Robust",
+  "affix.divine_apotheosis:armor/mob_effect/resistance.suffix": "of Athena",
+
+  "affix.divine_apotheosis:armor/mob_effect/saturation": "Resourceful",
+  "affix.divine_apotheosis:armor/mob_effect/saturation.suffix": "of Demeter",
+
+  "affix.divine_apotheosis:armor/mob_effect/vitality": "Life-Giving",
+  "affix.divine_apotheosis:armor/mob_effect/vitality.suffix": "of Heracles",
+
+  "affix.divine_apotheosis:armor/mob_effect/revitalizing": "Life-Giving",
+  "affix.divine_apotheosis:armor/mob_effect/revitalizing.suffix": "of Heracles",
+
+  "affix.divine_apotheosis:armor/dmg_reduction/blockading": "Blockading",
+  "affix.divine_apotheosis:armor/dmg_reduction/blockading.suffix": "of the Blockade",
+
+  "affix.divine_apotheosis:armor/dmg_reduction/runed": "Runed",
+  "affix.divine_apotheosis:armor/dmg_reduction/runed.suffix": "of Hecate",
+
+  "affix.divine_apotheosis:armor/dmg_reduction/blast_forged": "Blast-Forged",
+  "affix.divine_apotheosis:armor/dmg_reduction/blast_forged.suffix": "of Hephaestus",
+
+  "affix.divine_apotheosis:armor/dmg_reduction/dwarven": "Dwarven",
+  "affix.divine_apotheosis:armor/dmg_reduction/dwarven.suffix": "of Hephaestus",
+
+  "affix.divine_apotheosis:armor/dmg_reduction/feathery": "Feathery",
+  "affix.divine_apotheosis:armor/dmg_reduction/feathery.suffix": "of Ourea",
+
+  "comment_id": "/Breaker",
+
+  "affix.divine_apotheosis:breaker/attribute/experienced": "Wise",
+  "affix.divine_apotheosis:breaker/attribute/experienced.suffix": "of Athena",
+
+  "affix.divine_apotheosis:breaker/attribute/mining_speed": "Hasty",
+  "affix.divine_apotheosis:breaker/attribute/mining_speed.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:breaker/attribute/reach": "Elongated",
+  "affix.divine_apotheosis:breaker/attribute/reach.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:breaker/mob_effect/swift": "Prosperous",
+  "affix.divine_apotheosis:breaker/mob_effect/swift.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:breaker/mob_effect/spelunkers": "Rapid",
+  "affix.divine_apotheosis:breaker/mob_effect/spelunkers.suffix": "of Hermes",
+
+  "affix.divine_apotheosis:breaker/special/radial": "Radial",
+  "affix.divine_apotheosis:breaker/special/radial.suffix": "of Ourea",
+  "affix.divine_apotheosis:breaker/special/radial.desc": "This tool breaks in a %sx%s area.",
+
+  "affix.divine_apotheosis:breaker/special/enlightened": "Enlightened",
+  "affix.divine_apotheosis:breaker/special/enlightened.suffix": "of Hera",
+  "affix.divine_apotheosis:breaker/special/enlightened.desc": "This tool can place a torch at the cost of %s durability.",
+
+  "comment_id": "/Gems",
+
+  "item.apotheosis.gem.divine_apotheosis:divine/absolute": "Absolute Gem",
+  "item.apotheosis.gem.divine_apotheosis:modded/hearty": "Hearty Gem"
+
+}

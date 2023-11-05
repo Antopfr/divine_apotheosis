@@ -1,0 +1,25 @@
+{
+	"type": "apotheosis:mob_effect",
+	"mob_effect": "minecraft:saturation",
+	"target": "ATTACK_SELF",
+	"values": {
+		"divine_apotheosis:divine": {
+			"duration": {
+				"min": 160,
+				"steps": 8,
+				"step": 20
+			},
+			"amplifier": {
+				"min": 1.5,
+				"steps": 4,
+				"step": 0.25
+			},
+			"cooldown": 100
+		}
+	},
+	"types": [
+		"sword",
+		"trident",
+		"heavy_weapon"
+	]
+}
